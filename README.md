@@ -33,7 +33,7 @@ It is designed to prevent:
 The ultrasonic sensor measures the distance between the sensor and water surface. Distance is converted into water level percentage. 
 Based on predefined thresholds:
 
----> Tank Full (≥90%) → Pump OFF + LED blinking ![image alt](https://github.com/ArkaMajumder08/IoT-Based-Water-Level-Monitor/blob/main/Tank%20full%20indication.png?raw=true)
+---> Tank Full (≥90%) → Pump OFF + LED blinking
 
 ---> Half Full (≥50%) → Pump ON
 
